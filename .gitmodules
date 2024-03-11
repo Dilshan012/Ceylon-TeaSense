@@ -1,0 +1,6 @@
+[submodule "Ceylon-TeaSense-Front-End"]
+	path = Ceylon-TeaSense-Front-End
+	url = https://github.com/Dilshan012/Ceylon-TeaSense-Front-End.git
+[submodule "Ceylon-TeaSense-Back-End"]
+	path = Ceylon-TeaSense-Back-End
+	url = https://github.com/Dilshan012/Ceylon-TeaSense-Back-End.git
